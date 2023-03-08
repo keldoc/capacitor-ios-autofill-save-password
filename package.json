@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-ios-autofill-save-password",
+  "name": "@keldoc/capacitor-ios-autofill-save-password",
   "version": "1.1.4",
   "description": "Prompt to display dialog for saving password to keychain for iOS webview app.",
   "main": "dist/plugin.cjs.js",
